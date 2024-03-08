@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Your Organization//Your Product//EN
+BEGIN:VEVENT
+UID:1234567890@example.com
+DTSTAMP:20230415T000000Z
+ORGANIZER;CN=Your Name:MAILTO:your-email@example.com
+DTSTART:20240420T100000Z
+DTEND:20240420T110000Z
+SUMMARY:Sample Event Title
+DESCRIPTION:This is a sample description of your event.
+LOCATION:123 Main St, Your City, Your Country
+END:VEVENT
+END:VCALENDAR
